@@ -1,4 +1,4 @@
-👋 GUD DAY SIR, HERE IS ME, ME IS GABRIEL, a.k.a. AKIRA!
+👋 Name's Gabriel Wessling
 
 ### Interests
 - 👀 MMORPGs, documentaries on YouTube, strange games, and unique game mechanics.
@@ -16,7 +16,5 @@
 ### Professional Experience
 - 👨‍💻 Currently working with a team on an Isometric post-apocalyptic RPG.
 - 👨‍💻 Roles include programming, writing, and level designing, some 3D modeling, but I'm bad at it.
-
-Any English mistake here is deliberate (but some aren't and that's ok).
-
+- 
 Looking forward to connecting and collaborating with you!
