@@ -3,8 +3,7 @@
 ### Interests
 - 👀 MMORPGs, documentaries on YouTube, strange games, and unique game mechanics.
 - 🌱 Micromanaging RimWorld more than I micromanage my life.
-- 🌱 Exploring VR, we're living the matrix outside of it.
-- 🌱 Currently learning software engineering and astrophysics.
+- 🌱 Currently learning software engineering.
 - 🌱 Deep interest in philosophy, politics, and sociology, always eager to learn more.
 - 🌱 I like Dwarf Fortress too.
 
